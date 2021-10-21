@@ -3,6 +3,7 @@ I'm a frontend developer mainly using React. I live in Sofia, Bulgaria and curre
 ### Free time
 
 Currently going over EpicReact repos by Kent C. Dodds
+
 Also working on [ani-gallery](https://github.com/Daniel-Kolev/ani-gallery)
 
 ### Work
